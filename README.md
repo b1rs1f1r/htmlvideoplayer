@@ -1,2 +1,1 @@
-# htmlvideoplayer
-HTML5 Video Player
+# HTML5 Video Player
